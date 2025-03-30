@@ -1,7 +1,7 @@
 # Debias with Backdoor (DwB)
 
 **Official Implementation for Paper**
-[&#34;Backdoor for Debias: Mitigating Model Bias with Backdoor Attack-based Artificial Bias&#34;](https://arxiv.org/abs/XXXX.XXXXX)
+[&#34;Backdoor for Debias: Mitigating Model Bias with Backdoor Attack-based Artificial Bias&#34;](https://arxiv.org/pdf/2303.01504)
 
 ## Authors
 
